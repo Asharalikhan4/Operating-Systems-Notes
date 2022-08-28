@@ -20,3 +20,36 @@ An operating system is a software that manages the computer hardware. It acts as
 - Efficiency: An OS allows the computer system resources to be used in an efficient manner.
 
 - Ability to Evolve: An OS should be constructed in such a way as to permit the effective development, testing and introduction of new system functions at the same time without interfering with service
+
+
+<h1> <span>Lec 02 : </span>Types of Operating System</h1>
+
+<h3>Types of Operating System:</h3>
+
+
+<h6>Single Tasking Operating System</h6>
+
+- This type of Operating System can run only one program at a particular time.
+- They allow only one process at a time in the ram. ex - MS-DOS 
+- They are very inefficient.
+
+Multiprogramming Operating System - A computer running more than one program at a time (like running Excel and Firefox simultaneously).
+
+Multitasking Operating System – Tasks sharing a common resource (like 1 CPU).
+
+Multiprocessing Operating System– A computer using more than one CPU at a time.
+
+Multithreading Operating System - This is an extension of multitasking.
+
+Multiuser Operating System - This refers to the system where multiple users sitting on different computers can access a single OS resource.
+
+
+
+Primary components in a Computer System with an Operating System:
+User
+
+System and application programs
+
+Operating system
+
+Hardware
