@@ -1,2 +1,2 @@
-<h1> Introduction to Operating System </h1>
+<h1> <span>Lec 01 : </span>Introduction to Operating System </h1>
 <p>An operating system is a software that manages the computer hardware. It acts as an intermediary between the user of a computer and computer hardware. The purpose of an operating system is to provide an environment in which a user can execute programs in a convenient and efficient manner. It records that the hardware must provide appropriate mechanisms to ensure the correct operation of the computer system and to prevent user programs from interfering with the proper operation of the system.</p>
