@@ -61,7 +61,9 @@ Multiprocessing Operating System– A computer using more than one CPU at a time
 - Nowdays all the desktop get the multiprocessing operating system.
 
 
-Multiuser Operating System - This refers to the system where multiple users sitting on different computers can access a single OS resource.
+<h6>Multiuser Operating System -</h6> 
+
+- This refers to the system where multiple users sitting on different computers can access a single OS resource.
 
 
 
