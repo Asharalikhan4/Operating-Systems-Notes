@@ -27,15 +27,21 @@ An operating system is a software that manages the computer hardware. It acts as
 <h3>Types of Operating System:</h3>
 
 
-<h6>1. Single Tasking Operating System</h6>
+<h6>1. Single Tasking Operating System -</h6>
 
 - This type of Operating System can run only one program at a particular time.
 - They allow only one process at a time in the ram. ex - MS-DOS 
 - They are very inefficient.
 
-Multiprogramming Operating System - A computer running more than one program at a time (like running Excel and Firefox simultaneously).
+<h6>Multiprogramming Operating System -</h6> 
 
-Multitasking Operating System – Tasks sharing a common resource (like 1 CPU).
+- A computer running more than one program at a time (like running Excel and Firefox simultaneously).
+
+<h6>3. Multitasking Operating System –</h6>
+
+- It is an extension of multiprogramming where we run the process in the time slot mannner.
+- Multitasking system are more responsive.
+- Tasks sharing a common resource (like 1 CPU).
 
 Multiprocessing Operating System– A computer using more than one CPU at a time.
 
