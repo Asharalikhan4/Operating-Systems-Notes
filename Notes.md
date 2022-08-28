@@ -27,7 +27,7 @@ An operating system is a software that manages the computer hardware. It acts as
 <h3>Types of Operating System:</h3>
 
 
-<h6>Single Tasking Operating System</h6>
+<h6>1. Single Tasking Operating System</h6>
 
 - This type of Operating System can run only one program at a particular time.
 - They allow only one process at a time in the ram. ex - MS-DOS 
