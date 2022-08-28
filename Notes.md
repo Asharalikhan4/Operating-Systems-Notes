@@ -24,7 +24,7 @@ An operating system is a software that manages the computer hardware. It acts as
 
 <h1> <span>Lec 02 : </span>Types of Operating System</h1>
 
-<h3>Types of Operating System:</h3>
+<h3>Types of Operating Systems:</h3>
 
 
 <h6>1. Single Tasking Operating System -</h6>
@@ -45,7 +45,21 @@ An operating system is a software that manages the computer hardware. It acts as
 
 Multiprocessing Operating System– A computer using more than one CPU at a time.
 
-Multithreading Operating System - This is an extension of multitasking.
+
+
+<h6>Multithreading Operating System -</h6>
+
+- This is an extension of multitasking interleaving idea within the process level, at operating system level you have multiple process in an interleaved fashion and in multithreading you have multiple threads running within a process in interleaved fashion.
+- More responsive operating system.
+- Help us to utilize the CPU in more efficient manner.
+- Switching from one thread to another thread is less costly compare to switching between the process.
+- it is implemented in almost all operating system. ex -  MacOS, Windows, Linux.
+
+<h6>Multiprocessing Operating System -</h6>
+
+- In this we have multiple processor availble in a computer and our operating system should have the capability to utlise the processors.
+- Nowdays all the desktop get the multiprocessing operating system.
+
 
 Multiuser Operating System - This refers to the system where multiple users sitting on different computers can access a single OS resource.
 
