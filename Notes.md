@@ -3,7 +3,7 @@
 An operating system is a software that manages the computer hardware. It acts as an intermediary between the user of a computer and computer hardware. The purpose of an operating system is to provide an environment in which a user can execute programs in a convenient and efficient manner. It records that the hardware must provide appropriate mechanisms to ensure the correct operation of the computer system and to prevent user programs from interfering with the proper operation of the system.
 </p>
 
-<h4>Various relevant definitions of Operating System:</h4>
+<h3>Various relevant definitions of Operating System:</h3>
 
 - An operating system is a program that controls the execution of application programs and acts as an interface between the user of a computer and the computer hardware.
 
@@ -13,7 +13,7 @@ An operating system is a software that manages the computer hardware. It acts as
 
 
 
-<h4>Key functions of the Operating System:</h4>
+<h3>Key functions of the Operating System:</h3>
 
 - Convenience: An OS makes a computer more convenient to use.
 
