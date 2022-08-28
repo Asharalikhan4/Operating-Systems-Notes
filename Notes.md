@@ -33,7 +33,7 @@ An operating system is a software that manages the computer hardware. It acts as
 - They allow only one process at a time in the ram. ex - MS-DOS 
 - They are very inefficient.
 
-<h6>Multiprogramming Operating System -</h6> 
+<h6>2. Multiprogramming Operating System -</h6> 
 
 - A computer running more than one program at a time (like running Excel and Firefox simultaneously).
 
@@ -43,11 +43,7 @@ An operating system is a software that manages the computer hardware. It acts as
 - Multitasking system are more responsive.
 - Tasks sharing a common resource (like 1 CPU).
 
-Multiprocessing Operating System– A computer using more than one CPU at a time.
-
-
-
-<h6>Multithreading Operating System -</h6>
+<h6>4. Multithreading Operating System -</h6>
 
 - This is an extension of multitasking interleaving idea within the process level, at operating system level you have multiple process in an interleaved fashion and in multithreading you have multiple threads running within a process in interleaved fashion.
 - More responsive operating system.
@@ -55,13 +51,14 @@ Multiprocessing Operating System– A computer using more than one CPU at a time
 - Switching from one thread to another thread is less costly compare to switching between the process.
 - it is implemented in almost all operating system. ex -  MacOS, Windows, Linux.
 
-<h6>Multiprocessing Operating System -</h6>
+<h6>5. Multiprocessing Operating System -</h6>
 
+- A computer using more than one CPU at a time.
 - In this we have multiple processor availble in a computer and our operating system should have the capability to utlise the processors.
 - Nowdays all the desktop get the multiprocessing operating system.
 
 
-<h6>Multiuser Operating System -</h6> 
+<h6>6. Multiuser Operating System -</h6> 
 
 - This refers to the system where multiple users sitting on different computers can access a single OS resource.
 
