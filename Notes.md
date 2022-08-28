@@ -9,3 +9,12 @@ An operating system is a software that manages the computer hardware. It acts as
 - A more common definition is that the operating system is the one program running at all times on the computer (usually called the kernel), with all else being application programs.<br>
 - An operating system is concerned with the allocation of resources and services, such as memory, processors, devices, and information. The operating system correspondingly includes programs to manage these resources, such as a traffic controller, a scheduler, memory management module, I/O programs, and a file system.
 </p>
+
+<h4>Key functions of the Operating System:</h4>
+<p>
+- Convenience: An OS makes a computer more convenient to use.
+
+- Efficiency: An OS allows the computer system resources to be used in an efficient manner.
+
+- Ability to Evolve: An OS should be constructed in such a way as to permit the effective development, testing and introduction of new system functions at the same time without interfering with service
+</p>
