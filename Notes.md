@@ -98,3 +98,13 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 #### How process and thread treated by operating system -
 Pictorial representation of process with single thread. These are segments of a process.
 ![deadlock example](/images/singleThread.png "deadlock example")
+- If a process is single threaded then it will have only one stack. For multi-threaded processes we have multiple stacks.
+![deadlock example](/images/multipleThread.png "deadlock example")
+- Multiple threads have multiple stacks but same Heap, data and code.
+- Concurrent and parallel have different meanings with reference to process execution.
+###### More about threads:
+- Faster to create and terminate.
+- Share same address space.
+- Easier to communicate.
+- Context switching is easier.
+- Lightweight.
