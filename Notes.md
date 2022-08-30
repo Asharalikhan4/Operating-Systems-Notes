@@ -62,13 +62,4 @@ An operating system is a software that manages the computer hardware. It acts as
 
 - This refers to the system where multiple users sitting on different computers can access a single OS resource.
 
-
-
-Primary components in a Computer System with an Operating System:
-User
-
-System and application programs
-
-Operating system
-
-Hardware
+# <span>Lec 03 : Thread vs Process
