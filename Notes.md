@@ -68,10 +68,10 @@ An operating system is a software that manages the computer hardware. It acts as
 - In multithreading we can do the multiple things within a process or task. example - downloading something in browser and browsing.
 
 #### Real world examples of multithreading -
-1. Word processors - Typing, saving, formatting and spell-checking happen at the same time.
-2. Web server - Apache HTTP server uses thread pools.
-3. IDEs - Modern IDEs do compiler error checks while you are writing code.
-4. Games - In modern games, multiple objects are implemented as different threads.
+1. <b>Word processors</b> - Typing, saving, formatting and spell-checking happen at the same time.
+2. <b>Web server</b> - Apache HTTP server uses thread pools.
+3. <b>IDEs</b> - Modern IDEs do compiler error checks while you are writing code.
+4. <b>Games</b> - In modern games, multiple objects are implemented as different threads.
 
 
 
