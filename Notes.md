@@ -82,7 +82,10 @@ An operating system is a software that manages the computer hardware. It acts as
 - Difficulty in writing, testing and debugging code.
 - can lead to deadlock and race condition when you have shared variables.
 - Example of race condition -
+first it is executed currectly while in the second time second thread croosed the path with the first thread.
 ![example image](/images/raceCondition.png "Example image")
+- Example of deadlock - In multithreading s situation may arise when multiple threads involved in deadlocks and not proceed furthur at all.
+![deadlock example](/images/deadlock.png "deadlock example")
 
 
 
