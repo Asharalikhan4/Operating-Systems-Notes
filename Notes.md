@@ -96,7 +96,7 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 - When we open application in our computer example word processor, music player they are loaded first from hard disk into RAM and then they become the process, these are typically called process. While these process have multiple thread. Like in the music player one thread is playing the music while the other thread is shuffling the songs. Most of the application is multi-threaded cause multi-threading utilise space better and take advantage of multi-core processor.
 
 #### How process and thread treated by operating system -
-Pictorial representation of process with single thread. These are segments of a process.
+- Pictorial representation of process with single thread. These are segments of a process.
 ![deadlock example](/images/singleThread.png "deadlock example")
 - If a process is single threaded then it will have only one stack. For multi-threaded processes we have multiple stacks.
 ![deadlock example](/images/multipleThread.png "deadlock example")
