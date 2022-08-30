@@ -108,3 +108,7 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 - Easier to communicate.
 - Context switching is easier.
 - Lightweight.
+
+
+# Lec 05 : User threada vs kernal threads
+- <b>User managed threads</b> - The threads created by a process and the kernel is not aware about the threads and the process manages the threads.
