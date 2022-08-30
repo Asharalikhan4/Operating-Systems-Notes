@@ -62,6 +62,19 @@ An operating system is a software that manages the computer hardware. It acts as
 
 - This refers to the system where multiple users sitting on different computers can access a single OS resource.
 
-# Lec 03 : Thread vs Process
 
-- When we open application in our computer example word processor, music player, these are typically called process. While these process have multiple thread. Like in the music player one thread is playing the music while the other thread is shuffling the songs. Most of the application is multi-threaded cause multi-threading utilise space better.
+# Lec 03 : Multithreading Introduction
+- In multitasking we can do the multiple task at the same time. example we can listen the music and browse the web.(Here task is refering to the process).
+- In multithreading we can do the multiple things within a process or task. example - downloading something in browser and browsing.
+
+#### Real world examples of multithreading -
+1. Word processors - Typing, saving, formatting and spell-checking happen at the same time.
+2. Web server - Apache HTTP server uses thread pools.
+3. IDEs - Modern IDEs do compiler error checks while you are writing code.
+4. Games - In modern games, multiple objects are implemented as different threads.
+
+
+
+# Lec 04 : Thread vs Process
+
+- When we open application in our computer example word processor, music player, these are typically called process. While these process have multiple thread. Like in the music player one thread is playing the music while the other thread is shuffling the songs. Most of the application is multi-threaded cause multi-threading utilise space better and take advantage of multicore processor.
