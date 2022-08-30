@@ -74,9 +74,15 @@ An operating system is a software that manages the computer hardware. It acts as
 4. <b>Games</b> - In modern games, multiple objects are implemented as different threads.
 
 #### Advantage of multithreading -
-- Parallelism and Improved performance
-- Responsiveness
-- Better resource utilization
+- Parallelism and Improved performance.
+- Responsiveness.
+- Better resource utilization.
+
+#### Disadvantage of multithreading -
+- Difficulty in writing, testing and debugging code.
+- can lead to deadlock and race condition when you have shared variables.
+- Example of race condition -
+![example image](/images/raceCondition.jpg "Example image")
 
 
 
