@@ -86,6 +86,7 @@ first it is executed currectly while in the second time second thread croosed th
 ![example image](/images/raceCondition.png "Example image")
 - Example of deadlock - In multithreading s situation may arise when multiple threads involved in deadlocks and not proceed furthur at all.<br>
 ![deadlock example](/images/deadlock.png "deadlock example")
+<br>
 In the upper digram the R1 and R2 is non-shareable resources, only one thread can use one at a time. Here T1 is holding R1 and waiting for the R2 while T2 is waiting for the R1 and holding R2. SO here none of the thread can proceed furthur.
 
 
