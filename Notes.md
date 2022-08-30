@@ -62,6 +62,6 @@ An operating system is a software that manages the computer hardware. It acts as
 
 - This refers to the system where multiple users sitting on different computers can access a single OS resource.
 
-# <span>Lec 03 : Thread vs Process
+# Lec 03 : Thread vs Process
 
 - When we open application in our computer example word processor, music player, these are typically called process. While these process have multiple thread. Like in the music player one thread is playing the music while the other thread is shuffling the songs. Most of the application is multi-threaded cause multi-threading utilise space better.
