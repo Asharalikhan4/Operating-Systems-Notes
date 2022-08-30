@@ -73,6 +73,11 @@ An operating system is a software that manages the computer hardware. It acts as
 3. <b>IDEs</b> - Modern IDEs do compiler error checks while you are writing code.
 4. <b>Games</b> - In modern games, multiple objects are implemented as different threads.
 
+#### Advantage of multithreading -
+- Parallelism and Improved performance
+- Responsiveness
+- Better resource utilization
+
 
 
 # Lec 04 : Thread vs Process
