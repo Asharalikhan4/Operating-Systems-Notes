@@ -82,7 +82,7 @@ An operating system is a software that manages the computer hardware. It acts as
 - Difficulty in writing, testing and debugging code.
 - can lead to deadlock and race condition when you have shared variables.
 - Example of race condition -
-![example image](/images/raceCondition.jpg "Example image")
+![example image](/images/raceCondition.png "Example image")
 
 
 
