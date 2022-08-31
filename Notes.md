@@ -128,5 +128,6 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 
 # Lec 07 : Process States
 <h6> 1. Single tasking systems (MS – DOS) </h6>
+
 - New Process-> Goes in Memory -> Finished/Terminated
 - In such systems processor remains idle for long.
