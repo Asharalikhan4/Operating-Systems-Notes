@@ -113,4 +113,11 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 # Lec 05 : User threada vs kernal threads
 - <b>User managed threads</b> - The threads created by a process and the kernel is not aware about the threads and the process manages the threads.
 - <b>Kernel managed threads</b> - Managed by kernel and kernel is aware of everything going on.
+- Differnce between 
 ![example image](/images/lec5notes.png "Example image")
+
+
+
+# Lec 06 : Introduction to process
+- <b>Program</b> - A program is something that is reside in your hard-disk. it is a file.
+- <b>Process</b> - A process is a program in execution
