@@ -119,5 +119,8 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 
 
 # Lec 06 : Introduction to process
-- <b>Program</b> - A program is something that is reside in your hard-disk. it is a file.
-- <b>Process</b> - A process is a program in execution
+- <b>Program</b> - A program is something that reside in your hard-disk. it is a file.
+- <b>Process</b> - A process is a program in execution.
+- The binary file (.exe) is loaded into RAM and then run. While it runs it is called a process.
+- Below down is the diagram of the program in the memory
+![process image](/images/process.png "process image")
