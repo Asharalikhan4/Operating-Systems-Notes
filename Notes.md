@@ -129,5 +129,5 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 # Lec 07 : Process States
 <h6> 1. Single tasking systems (MS – DOS) </h6>
 
-- New Process-> Goes in Memory -> Finished/Terminated
-- In such systems processor remains idle for long.
+- In this kind of system, the second process begins only when the first process ends. By the time one process completes there might be other I/O devices, waiting for the first process to complete its task. This might lead to a delay in the process of the operating system, which is not feasible from the user's point of view. Therefore, the need arose for a multiprogramming system that can execute multiple processes at a given time. Given below is the process state diagram of the following:
+![single](/images/single.png "single")
