@@ -124,3 +124,9 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 - The binary file (.exe) is loaded into RAM and then run. While it runs it is called a process.
 - Below down is the diagram of the program in the memory
 ![process image](/images/process.png "process image")
+
+
+# Lec 07 : Process States
+1. Single tasking systems (MS – DOS)
+- New Process-> Goes in Memory -> Finished/Terminated
+- In such systems processor remains idle for long.
