@@ -110,7 +110,7 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 - Lightweight.
 
 
-# Lec 05 : User threada vs kernal threads
+# Lec 05 : User threads vs kernal threads
 - <b>User managed threads</b> - The threads created by a process and the kernel is not aware about the threads and the process manages the threads.
 - <b>Kernel managed threads</b> - Managed by kernel and kernel is aware of everything going on.
 - Differnce between 
