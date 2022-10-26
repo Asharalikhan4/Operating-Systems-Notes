@@ -142,4 +142,8 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 
 - Generally, people think that process synchronization happens when we have multiple processors. In single processor devices concurrent execution may lead to inter-process communication.
 
-- <b>Con-current execution:</b> In round robin, processes get executed one by one. When multiple processes run on intervals, this execution is called con-current execution.
+- <b>Con-current execution:</b> 
+In round robin, processes get executed one by one. When multiple processes run on intervals, this execution is called con-current execution.
+
+- <b>Race Condition:</b>
+ When the output depends on the sequence of execution of instructions in a con-current/multi-programming/multi-threading environment, the condition is called Race Condition.
