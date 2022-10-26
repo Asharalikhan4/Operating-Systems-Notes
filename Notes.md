@@ -133,4 +133,13 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 ![single](/images/single.png "single")
 
 
+# Lec 08 :  Process Synchronization
+- There are two types of process 
+1. Independent - They run independently.
+2. Cooperative - They interact with other process.
 
+- Inter-process communication may happen on same device or across multiple devices using computer networks.
+
+- Generally, people think that process synchronization happens when we have multiple processors. In single processor devices concurrent execution may lead to inter-process communication.
+
+- <b>Con-current execution:</b> In round robin, processes get executed one by one. When multiple processes run on intervals, this execution is called con-current execution.
