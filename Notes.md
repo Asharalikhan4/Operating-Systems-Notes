@@ -142,8 +142,24 @@ In the upper digram the R1 and R2 is non-shareable resources, only one thread ca
 
 - Generally, people think that process synchronization happens when we have multiple processors. In single processor devices concurrent execution may lead to inter-process communication.
 
-- <b>Con-current execution:</b> 
-In round robin, processes get executed one by one. When multiple processes run on intervals, this execution is called con-current execution.
+- <b>Con-current execution:</b>In round robin, processes get executed one by one. When multiple processes run on intervals, this execution is called con-current execution.
 
-- <b>Race Condition:</b>
- When the output depends on the sequence of execution of instructions in a con-current/multi-programming/multi-threading environment, the condition is called Race Condition.
+- <b>Race Condition:</b>When the output depends on the sequence of execution of instructions in a con-current/multi-programming/multi-threading environment, the condition is called Race Condition.
+
+- example of race condition - 
+int balance = 100;
+
+// first function
+// let x = 10;
+void deposit(int x){
+    balance = balance+x;
+}
+
+- imagine after the function execution it got prempted and couldn't update the value and the second function start executing and updated the value of the balance as 90 after this when the control will reach first function it will try to update it to the x = 110 and that's where the race condition comes in.
+
+// Second function
+void withdraw(int x){
+    balance = balance-x;
+}
+
+- the part of the code where you access the shared varaible is called the critcal section, remaining part is called non-critical section. Now we put some mechanism before the critical so that only one critical section get executed. the section where we put the mechanism is called the entery section.
