@@ -163,3 +163,12 @@ void withdraw(int x){
 }
 
 - the part of the code where you access the shared varaible is called the critcal section, remaining part is called non-critical section. Now we put some mechanism before the critical so that only one critical section get executed. the section where we put the mechanism is called the entery section.
+
+# Lec 09 :  Goals of Synchronization Mechanism
+
+1. Mutual Exclusion: Only one process is allowed to enter critical section.
+2. Progress: The processes which do not wish to execute their critical section must not block other processes.
+3. Bounded Waiting (Fair): It means fairness. Any process should not be waiting for too long to enter the critical section.
+4. Performance: The logic must not be slow. There are two ways to lock the processes so that critical section is accessed by one process only.
+  a. Hardware Locking Mechanism: Better than Software Locking Mechanism.
+  b. Software Locking Mechanism: Mutual Exclusion and Progress must be achieved by any synchronization mechanism, others are optional.
