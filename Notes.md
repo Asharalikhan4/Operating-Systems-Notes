@@ -169,6 +169,6 @@ void withdraw(int x){
 1. Mutual Exclusion: Only one process is allowed to enter critical section.
 2. Progress: The processes which do not wish to execute their critical section must not block other processes.
 3. Bounded Waiting (Fair): It means fairness. Any process should not be waiting for too long to enter the critical section.
-4. Performance: The logic must not be slow. There are two ways to lock the processes so that critical section is accessed by one process only.
- 1. Hardware Locking Mechanism: Better than Software Locking Mechanism.
- 2. Software Locking Mechanism: Mutual Exclusion and Progress must be achieved by any synchronization mechanism, others are optional.
+4. Performance: The logic must not be slow. There are two ways to lock the processes so that critical section is accessed by one process only.<br>
+ a. Hardware Locking Mechanism: Better than Software Locking Mechanism.<br>
+ b. Software Locking Mechanism: Mutual Exclusion and Progress must be achieved by any synchronization mechanism, others are optional.
